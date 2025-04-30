@@ -1,8 +1,6 @@
-# Capstone Project - Rhyme Remarks
+# Rhyme Remarks
 
 ##### Author: Colby Ackerman
-
-##### Program: Savvy Coders
 
 ##### Date: 07/11/2024
 
